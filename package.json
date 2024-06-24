@@ -1,0 +1,16 @@
+{
+    "name": "decipher-2024",
+    "version": "1.0.0",
+    "description": "BlockStalker.IO Decipher 2024 Code",
+    "type": "module",
+    "main": "decipher2024.js",
+    "scripts": {
+      "start": "node decipher2024.js"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "@blockstalker/client-js": "^0.2.2"
+    }
+  }
+  
